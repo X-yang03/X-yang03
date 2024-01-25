@@ -2,11 +2,10 @@
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=X-yang03)]()
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-yang03&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhit)]()
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-yang03)]()
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/X-yang03)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-yang03&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 - 🍻 Junior at 🇨🇳 [NKU](https://www.nankai.edu.cn/) in Computer Science_
 - ⚡ C++ / Python
