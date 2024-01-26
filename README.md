@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Hi+there+👋+Welcome+to+X-yang's+Github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Hi+there+👋+Welcome+to+X-yang's+Github" alt="Typing SVG" /></a>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-yang03&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
