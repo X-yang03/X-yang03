@@ -2,6 +2,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Hi+there+👋+Welcome+to+X-yang's+Github" alt="Typing SVG" /></a>
 </div>
 
+<!-- GitHub 奖杯🏆 -->
+<div><img src="https://github-profile-trophy.vercel.app/?username=X-yang03&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=X-yang03&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-yang03&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=350" /><br>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-yang03&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=X-yang03&theme=sea-dark&hide_border=true&background=A7BAFCE0)](https://git.io/streak-stats)
