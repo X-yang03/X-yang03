@@ -33,7 +33,7 @@
 
 ### ⚡ C++ / Python / Jupyter
 
-### 📫 How to reach me: [Mail](mailto:2113301@nankai.edu.cn)
+### 📫 How to reach me: [MailBox](mailto:2113301@nankai.edu.cn)
 
 
 <!--
