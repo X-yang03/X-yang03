@@ -26,6 +26,10 @@
 - 🍻 Junior at 🇨🇳 [NKU](https://www.nankai.edu.cn/) in Computer Science_
 - ⚡ C++ / Python
 
+
+### :trophy: GitHub Profile Trophy
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=X-yang03&title=MultiLanguage,Commits,Followers,Stars,PullRequest,Repositories&theme=algolia&no-frame=true&no-bg=true&margin-w=20" alt="X-yang03" /></a> </p>
 <!--
 **X-yang03/X-yang03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
