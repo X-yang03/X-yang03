@@ -10,6 +10,8 @@
 
 <div><img src="https://github-profile-trophy.vercel.app/?username=X-yang03&theme=algolia&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=X-yang03&theme=sea-dark&hide_border=true&background=A7BAFCE0" />
+
 </div>
 
 
