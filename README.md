@@ -29,14 +29,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=X-yang03&repo=world-cup-data-visualization&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
-- 🍻 Junior at 🇨🇳 [NKU](https://www.nankai.edu.cn/) in Computer Science_
-- ⚡ C++ / Python
+### 📖 Junior at 🇨🇳 [NKU](https://www.nankai.edu.cn/) in Computer Science_
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+### ⚡ C++ / Python / Jupyter
+
+### 📫 How to reach me: [Mail](mailto:2113301@nankai.edu.cn)
+
+
 <!--
 **X-yang03/X-yang03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
