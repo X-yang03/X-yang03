@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22); Hi there 👋&center=true&size=27"> </a> </h1
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi there 👋" alt="Typing SVG" /></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-yang03&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
